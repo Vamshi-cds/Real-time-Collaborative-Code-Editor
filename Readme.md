@@ -1,4 +1,4 @@
-# 🚀 Real-Time Collaboration Code Editor 🤝
+# 🚀 Real-Time Collaborative Code Editor 
 
 Welcome to our innovative Real-Time Collaboration Code Editor! 🎉 Collaborate seamlessly with your
 friends and colleagues to write code together, boosting productivity and creativity. 💻✨
