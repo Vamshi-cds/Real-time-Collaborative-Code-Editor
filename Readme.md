@@ -2,17 +2,6 @@
 
 Welcome to our innovative Real-Time Collaboration Code Editor! 🎉 Collaborate seamlessly with your
 friends and colleagues to write code together, boosting productivity and creativity. 💻✨
-
-
-
-
-
-https://github.com/riyaz489/Realtime-Collaboration-Code-Editor/assets/27089449/d9af86b6-c4ee-4283-9d99-4a4bf8686c45
-
-
-
-
-
 ## Features:
 
 🔗 **Real-Time Collaboration:** Work on code simultaneously with others in real-time, no matter where they are in the world. 🌍
