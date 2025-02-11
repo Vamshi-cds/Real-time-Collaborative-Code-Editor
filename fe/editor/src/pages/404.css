@@ -1,0 +1,9 @@
+div#t1 {
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgba(102, 158, 210, 0.897);
+    background-color: rgba(36, 35, 35, 0.879);
+}
